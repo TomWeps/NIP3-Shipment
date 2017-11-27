@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIP3.Shipment", "NIP3.Shipment\NIP3.Shipment.csproj", "{C8A5807A-DEEC-4B2B-BC5C-A4DC32078ABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NIP3.Shipment.Test", "NIP3.Shipment.Test\NIP3.Shipment.Test.csproj", "{0DAAE60B-0126-4879-BF8C-E3969D384BDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8A5807A-DEEC-4B2B-BC5C-A4DC32078ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8A5807A-DEEC-4B2B-BC5C-A4DC32078ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8A5807A-DEEC-4B2B-BC5C-A4DC32078ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8A5807A-DEEC-4B2B-BC5C-A4DC32078ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DAAE60B-0126-4879-BF8C-E3969D384BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAAE60B-0126-4879-BF8C-E3969D384BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAAE60B-0126-4879-BF8C-E3969D384BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAAE60B-0126-4879-BF8C-E3969D384BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04294CE9-30F2-4A91-A0E2-10F0B5301E66}
+	EndGlobalSection
+EndGlobal
